@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @armanalam
+- 👋 Hi, I’m Arman Alam
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Alma better
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hatori.kenichi@gmail.com
+- 📫 How to reach me 634arman@gmail.com
 
 <!---
 armanalam6342/armanalam6342 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
