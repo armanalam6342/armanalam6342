@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Arman Alam
-- 👀 I’m interested in Data science
+- 🔭 I’m currently working on Machine Learning and Deep learning projects.
+- 🌱 I’m currently learning various machine learning techniques.
+- 👯 I’m looking to collaborate on Machien learning projects.
 - 🌱 I’m currently learning in Alma better
-- 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me 634arman@gmail.com
 
 <!---
