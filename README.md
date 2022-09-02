@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Machine Learning and Deep learning projects.
 - 🌱 I’m currently learning various machine learning techniques.
 - 👯 I’m looking to collaborate on Machien learning projects.
-- 🌱 I’m currently learning in Alma better
+- 🌱 I’m currently Working in Almabetter
 - 📫 How to reach me 634arman@gmail.com
 
 <!---
