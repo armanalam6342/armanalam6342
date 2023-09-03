@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Arman Alam
+- 🌱 I’m currently working in Almabetter as a Data Analyst
 - 🔭 I’m currently working on Machine Learning and Deep learning projects.
 - 🌱 I’m currently learning various machine learning techniques.
-- 👯 I’m looking to collaborate on Machien learning projects.
-- 🌱 I’m currently Working in Almabetter
+- 👯 I’m looking to collaborate on Machine learning projects.
 - 📫 How to reach me 634arman@gmail.com
 
 <!---
